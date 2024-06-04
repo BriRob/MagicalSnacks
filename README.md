@@ -2,7 +2,8 @@
 
 ## Just imagine eating the most delicious snacks you'll ever dream of...
 1. add .env file and port property to use in app.js
-    - need something to parse incoming data entries..
+    - need something to parse incoming data entries...
+    - replace port in app.js with port value in .env
     - need general GET route for home
     - popcorn routes
         - get all popcorn
